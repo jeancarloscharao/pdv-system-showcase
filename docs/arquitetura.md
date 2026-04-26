@@ -4,10 +4,6 @@
 
 O PDV System é uma aplicação distribuída composta por frontend em Vue.js e backend em Laravel, comunicando-se via API REST.
 
-[![🎥 Assista à demonstração](https://img.youtube.com/vi/krW5jai5yKY/maxresdefault.jpg)](https://www.youtube.com/watch?v=krW5jai5yKY)
-
-[![🎥 Assista à demonstração](https://img.youtube.com/vi/7fXaVOaO93c/maxresdefault.jpg)](https://www.youtube.com/watch?v=7fXaVOaO93c)
-
 A arquitetura foi projetada para suportar operações de venda em tempo real, controle de estoque e gestão multi-loja. 
 
 ---

@@ -2,6 +2,10 @@
 
 O **PDV System** é uma solução completa de ponto de venda (POS), composta por um frontend em Vue.js para operação de caixa e um backend em Laravel com API REST e painel administrativo.
 
+[![🎥 Assista à demonstração](https://img.youtube.com/vi/krW5jai5yKY/maxresdefault.jpg)](https://www.youtube.com/watch?v=krW5jai5yKY)
+
+[![🎥 Assista à demonstração](https://img.youtube.com/vi/7fXaVOaO93c/maxresdefault.jpg)](https://www.youtube.com/watch?v=7fXaVOaO93c)
+
 O sistema foi projetado para gerenciar vendas, estoque, clientes e operações comerciais em tempo real.
 
 ---
